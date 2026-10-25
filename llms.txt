@@ -23,6 +23,9 @@
 - [Local water heater repair in San Jose](https://local-business-guides.github.io/efficient-water-heaters-inc-san-jose/local-water-heater-repair/): Local water heater repair in San Jose, with clear estimates and help for tank and tankless systems.
 - [Choosing top rated water heater repair in San Jose](https://local-business-guides.github.io/efficient-water-heaters-inc-san-jose/top-rated-water-heater-repair/): Top rated water heater repair in San Jose starts with clear answers, an estimate, and service for your system.
 
+## Newsroom
+- [San Jose Water Heater Repair Guide Released by Efficient Water Heaters Inc](https://local-business-guides.github.io/efficient-water-heaters-inc-san-jose/news/2026-10-25-san-jose-water-heater-repair-guide-released-by-eff/): Efficient Water Heaters Inc published a San Jose water heater repair guide this week, along with a YouTube video, podcast episode and SoundCloud audio. (2026-10-25)
+
 ## Pages
 - [Water Heater Repair in San Jose, California](https://local-business-guides.github.io/efficient-water-heaters-inc-san-jose/): Get help with hot water problems and keep your system working with water heater service in San Jose. Call +1408-470-0191.
 - [About Efficient Water Heaters Inc.](https://local-business-guides.github.io/efficient-water-heaters-inc-san-jose/about/): About Efficient Water Heaters Inc, San Jose.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/efficient-water-heaters-inc-san-jose/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/efficient-water-heaters-inc-san-jose/news/rss.xml)
 - [Main resource site](https://efficient-water-heaters-san-jose.localwebsites.chatgpt.site)

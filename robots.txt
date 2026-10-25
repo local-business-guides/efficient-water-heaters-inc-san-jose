@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/efficient-water-heaters-inc-san-jose/sitemap.xml
+Sitemap: https://local-business-guides.github.io/efficient-water-heaters-inc-san-jose/news-sitemap.xml
